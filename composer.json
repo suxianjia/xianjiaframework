@@ -1,10 +1,10 @@
 {
     "name": "mianhuagu/mianhuagusystemframework",
-    "description": "mianhuagu system",
+    "description": "mianhuagu system v1.0.3",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Mianhuagu\\Mianhuagusystem\\": "src/"
+            "Mianhuagu\\Mianhuagusystem\\": "framework/"
         }
     },
     "authors": [

@@ -125,6 +125,7 @@ Welcome to the Composer config generator
 
 
 composer create-project mianhuagu/mianhuagusystem
+composer create-project mianhuagu/mianhuagusystemframework
 
 
 
