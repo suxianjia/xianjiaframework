@@ -112,3 +112,18 @@ zlib
 [Zend Modules]
 Zend OPcache
 
+
+composer init
+
+
+Welcome to the Composer config generator
+
+
+
+This command will guide you through creating your composer.json config.
+
+Package name (<vendor>/<name>) [dev/mianhuagusystem]:
+Description []: mianhuagusystem
+Author [dev <605011288@qq.com>, n to skip]:
+Minimum Stability []: 
+
