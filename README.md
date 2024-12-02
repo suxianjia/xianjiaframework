@@ -120,6 +120,16 @@ Welcome to the Composer config generator
 
 
 
+
+
+
+
+composer create-project mianhuagu/mianhuagusystem
+
+
+
+
+
 This command will guide you through creating your composer.json config.
 
 Package name (<vendor>/<name>) [dev/mianhuagusystem]:
