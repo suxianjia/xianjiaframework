@@ -37,3 +37,78 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+PHP 8.2.25 (cli) (built: Oct 22 2024 15:12:03) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.2.25, Copyright (c) Zend Technologies
+    with Zend OPcache v8.2.25, Copyright (c), by Zend Technologies
+[PHP Modules]
+bcmath
+bz2
+calendar
+Core
+ctype
+curl
+date
+dba
+dom
+exif
+FFI
+fileinfo
+filter
+ftp
+gd
+gettext
+gmp
+hash
+iconv
+intl
+json
+ldap
+libxml
+mbstring
+mysqli
+mysqlnd
+odbc
+openssl
+pcntl
+pcre
+PDO
+pdo_dblib
+pdo_mysql
+PDO_ODBC
+pdo_pgsql
+pdo_sqlite
+pgsql
+Phar
+posix
+pspell
+random
+readline
+redis
+Reflection
+session
+shmop
+SimpleXML
+soap
+sockets
+sodium
+SPL
+sqlite3
+standard
+swoole
+sysvmsg
+sysvsem
+sysvshm
+tidy
+tokenizer
+xml
+xmlreader
+xmlwriter
+xsl
+Zend OPcache
+zip
+zlib
+
+[Zend Modules]
+Zend OPcache
+
