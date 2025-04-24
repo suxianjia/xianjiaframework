@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ae9db3424fa91b8a4fe722421e41bdc3",
+    "content-hash": "986b671768d19ab0ea952f4e81eb49a2",
     "packages": [
         {
             "name": "nikic/fast-route",
@@ -18,13 +18,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/nikic/FastRoute/zipball/d3ada013d0f683ad2a8d0614fc97917a6ab72ce9",
                 "reference": "d3ada013d0f683ad2a8d0614fc97917a6ab72ce9",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=8.1.0",
@@ -72,7 +66,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/FastRoute/issues",
-                "source": "https://github.com/nikic/FastRoute/tree/master"
+                "source": "https://github.com/nikic/FastRoute/tree/2.0.0-beta1"
             },
             "time": "2024-03-04T23:46:43+00:00"
         },
@@ -88,13 +82,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/2d280c2aaa23a120f35d55cfde8581954a8e77fa",
                 "reference": "2d280c2aaa23a120f35d55cfde8581954a8e77fa",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "php": ">=8.0.0"
@@ -133,6 +121,81 @@
                 "source": "https://github.com/php-fig/simple-cache/tree/master"
             },
             "time": "2022-04-08T16:41:45+00:00"
+        },
+        {
+            "name": "suxianjia/xianjialogwriter",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/suxianjia/xianjialogwriter.git",
+                "reference": "13d62511057b70e8e8ff638e6655e6bae76bad75"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/suxianjia/xianjialogwriter/zipball/13d62511057b70e8e8ff638e6655e6bae76bad75",
+                "reference": "13d62511057b70e8e8ff638e6655e6bae76bad75",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.0|>=8.3.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Suxianjia\\xianjialogwriter\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "xianjia",
+                    "email": "605011288@qq.com"
+                }
+            ],
+            "description": "xianjialogwriter",
+            "support": {
+                "issues": "https://github.com/suxianjia/xianjialogwriter/issues",
+                "source": "https://github.com/suxianjia/xianjialogwriter/tree/v1.0.2"
+            },
+            "time": "2025-04-23T00:16:08+00:00"
+        },
+        {
+            "name": "suxianjia/xianjiaorm",
+            "version": "v2.0.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/suxianjia/xianjiaorm.git",
+                "reference": "20dd66900c5bcc51471aaafa218639545c686702"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/suxianjia/xianjiaorm/zipball/20dd66900c5bcc51471aaafa218639545c686702",
+                "reference": "20dd66900c5bcc51471aaafa218639545c686702",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.0|>=8.3.3",
+                "suxianjia/xianjialogwriter": "^1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Suxianjia\\xianjiaorm\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "xianjia",
+                    "email": "605011288@qq.com"
+                }
+            ],
+            "description": "xianjiaorm",
+            "support": {
+                "issues": "https://github.com/suxianjia/xianjiaorm/issues",
+                "source": "https://github.com/suxianjia/xianjiaorm/tree/v2.0.10"
+            },
+            "time": "2025-04-24T04:02:33+00:00"
         }
     ],
     "packages-dev": [],
@@ -143,7 +206,7 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
+    "platform": {},
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
