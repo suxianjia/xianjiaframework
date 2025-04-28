@@ -15,7 +15,9 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "nikic/fast-route": "^2.0@dev"
+        "nikic/fast-route": "^2.0@dev",
+              "suxianjia/xianjiaorm": "^2.0",
+        "suxianjia/xianjialogwriter": "^1.0"
     }
 }
  
